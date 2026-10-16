@@ -1,17 +1,10 @@
 <!-- ===================== ENCABEZADO ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=210&section=header&text=Aionel&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desarrollador%20Full%20Stack%20%26%20M%C3%B3vil&descAlignY=56&descSize=19" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=210&section=header&text=Aionel&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desarrollador%20Full%20Stack%20%26%20M%C3%B3vil%20%7C%20Creador%20de%20Contenido&descAlignY=56&descSize=18" width="100%" />
 
 <a href="https://github.com/ALG-AbrahamGamargo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=640&lines=%C2%A1Hola%2C+bienvenido+a+mi+perfil!+%F0%9F%91%8B;Desarrollador+Full+Stack+%26+M%C3%B3vil;Apps+m%C3%B3viles+con+Flutter+%F0%9F%93%B1;Angular+%2B+Java+%2B+React+Native;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Texto animado" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ALG-AbrahamGamargo&label=Visitas%20al%20perfil&color=7C3AED&style=for-the-badge" alt="Visitas al perfil" />
-<a href="https://github.com/ALG-AbrahamGamargo?tab=followers">
-  <img src="https://img.shields.io/github/followers/ALG-AbrahamGamargo?label=Seguidores&style=for-the-badge&color=7C3AED&logo=github" alt="Seguidores" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=7C3AED&center=true&vCenter=true&width=660&lines=%C2%A1Hola%2C+bienvenido+a+mi+perfil!+%F0%9F%91%8B;Creo+contenido+de+tecnolog%C3%ADa+y+ciencia+%F0%9F%94%AC;Desarrollador+Full+Stack+%26+M%C3%B3vil;Flutter+%C2%B7+Angular+%C2%B7+Java+%C2%B7+React+Native" alt="Texto animado" />
 </a>
 
 </div>
@@ -23,17 +16,40 @@
 
 ```yaml
 nombre:     Aionel
-rol:        Desarrollador Full Stack & Móvil
+rol:        Desarrollador Full Stack & Móvil | Creador de contenido
 ubicación:  Venezuela 🇻🇪
+contenido:  tecnología y ciencia 🔬
 enfoque:    [ Flutter, Angular, Java, React Native ]
 intereses:  [ tecnología, ciencia, ideas nuevas 💡 ]
 ```
 
+- 🎥 Creo **contenido de tecnología y ciencia** para mis redes sociales.
 - 📱 Construyo **aplicaciones móviles** y **aplicaciones web** de punta a punta.
 - 🧩 Me muevo con comodidad entre el **frontend** (Angular, React Native) y el **backend** (Java, Node.js).
-- 🎯 Me enfoco en código limpio, buenas prácticas y **experiencias de usuario** cuidadas.
-- 💬 Hablemos de **Flutter, Angular, Java, React Native** o de cualquier idea interesante.
-- ⚡ Dato curioso: me gusta la tecnología, la ciencia y una buena conversación.
+- 💬 Hablemos de **tecnología, ciencia** o de cualquier idea interesante.
+
+<br/>
+
+<!-- ===================== REDES / CONTENIDO ===================== -->
+## 🎥 Contenido de tecnología y ciencia
+
+<div align="center">
+
+Comparto contenido sobre **tecnología**, **ciencia** e ideas nuevas. ¡Sígueme! 🚀
+
+<br/>
+
+<a href="https://www.youtube.com/@AionelMind">
+  <img src="https://img.shields.io/badge/YouTube-@AionelMind-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://www.instagram.com/aionelmind">
+  <img src="https://img.shields.io/badge/Instagram-@aionelmind-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.tiktok.com/@aionelmind">
+  <img src="https://img.shields.io/badge/TikTok-@aionelmind-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+</a>
+
+</div>
 
 <br/>
 
@@ -79,61 +95,21 @@ intereses:  [ tecnología, ciencia, ideas nuevas 💡 ]
 
 <br/>
 
-<!-- ===================== ESTADÍSTICAS ===================== -->
-## 📊 Mis estadísticas en GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ALG-AbrahamGamargo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=es" alt="Estadísticas de GitHub" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALG-AbrahamGamargo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=es" alt="Lenguajes más usados" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ALG-AbrahamGamargo&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ALG-AbrahamGamargo&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20de%20contribuciones" width="100%" alt="Gráfico de actividad" />
-
-</div>
-
-<br/>
-
-<!-- ===================== PROYECTOS DESTACADOS ===================== -->
-## 🚀 Proyectos destacados
-
-<div align="center">
-
-<a href="https://github.com/ALG-AbrahamGamargo/DAMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ALG-AbrahamGamargo&repo=DAMS&theme=tokyonight&hide_border=true" alt="DAMS" />
-</a>
-<a href="https://github.com/ALG-AbrahamGamargo/PrepCourse-Henry">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ALG-AbrahamGamargo&repo=PrepCourse-Henry&theme=tokyonight&hide_border=true" alt="PrepCourse-Henry" />
-</a>
-
-</div>
-
-<br/>
-
 <!-- ===================== CONTACTO ===================== -->
-## 📫 Conecta conmigo
+## 📫 Contacto
 
 <div align="center">
+
+¿Tienes una idea, un proyecto o una colaboración? ¡Escríbeme! 👋
+
+<br/>
 
 <a href="mailto:abrahamgamargo20alg@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-abrahamgamargo20alg@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://github.com/ALG-AbrahamGamargo">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-ALG--AbrahamGamargo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<!-- 🔗 Cuando tengas LinkedIn o portafolio, descomenta y pega tu enlace:
-<a href="TU_LINK_AQUI">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="TU_LINK_AQUI">
-  <img src="https://img.shields.io/badge/Portafolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
-</a>
--->
 
 </div>
 
