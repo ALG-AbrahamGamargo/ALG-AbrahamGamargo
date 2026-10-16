@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="280" viewBox="0 0 1180 280" role="img" aria-label="Aionel, Desarrollador Full Stack y Movil, Creador de contenido de tecnologia y ciencia">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1026"/>
+      <stop offset="45%" stop-color="#241253"/>
+      <stop offset="100%" stop-color="#3B1D77"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.50"/>
+      <stop offset="100%" stop-color="#2563EB" stop-opacity="0.30"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1180" height="280" fill="url(#bg)"/>
+
+  <circle cx="180" cy="30" r="230" fill="url(#glow1)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -16; 0 0" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1010" cy="255" r="270" fill="url(#glow2)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 14; 0 0" dur="11s" repeatCount="indefinite"/>
+  </circle>
+
+  <path d="M0,244 C 200,214 340,274 590,244 C 840,214 990,274 1180,244 L1180,280 L0,280 Z" fill="url(#wave)"/>
+  <path d="M0,262 C 220,240 360,284 600,262 C 840,240 1000,282 1180,260 L1180,280 L0,280 Z" fill="#080B1C" opacity="0.6"/>
+
+  <text x="590" y="70" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="7" fill="#A78BFA">TECNOLOGÍA · CIENCIA · DESARROLLO</text>
+
+  <text x="590" y="152" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="74" font-weight="800" letter-spacing="1" fill="#FFFFFF">Aionel</text>
+
+  <rect x="525" y="172" width="130" height="5" rx="2.5" fill="url(#accent)"/>
+
+  <text x="590" y="210" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#E9D5FF">Desarrollador Full Stack &amp; Móvil · Creador de Contenido</text>
+</svg>

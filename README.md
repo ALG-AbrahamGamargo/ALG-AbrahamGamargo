@@ -1,15 +1,17 @@
 <!-- ===================== ENCABEZADO ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=210&section=header&text=Aionel&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desarrollador%20Full%20Stack%20%26%20M%C3%B3vil%20%7C%20Creador%20de%20Contenido&descAlignY=56&descSize=18" width="100%" />
+<img src="https://raw.githubusercontent.com/ALG-AbrahamGamargo/ALG-AbrahamGamargo/main/banner.svg" alt="Aionel — Desarrollador Full Stack & Móvil · Creador de contenido de tecnología y ciencia" width="100%" />
+
+<br/><br/>
 
 <a href="https://github.com/ALG-AbrahamGamargo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=7C3AED&center=true&vCenter=true&width=660&lines=%C2%A1Hola%2C+bienvenido+a+mi+perfil!+%F0%9F%91%8B;Creo+contenido+de+tecnolog%C3%ADa+y+ciencia+%F0%9F%94%AC;Desarrollador+Full+Stack+%26+M%C3%B3vil;Flutter+%C2%B7+Angular+%C2%B7+Java+%C2%B7+React+Native" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=7C3AED&center=true&vCenter=true&width=680&lines=%C2%A1Hola%2C+bienvenido+a+mi+perfil!+%F0%9F%91%8B;Creo+contenido+de+tecnolog%C3%ADa+y+ciencia+%F0%9F%94%AC;Desarrollador+Full+Stack+%26+M%C3%B3vil;Flutter+%C2%B7+Angular+%C2%B7+Java+%C2%B7+React+Native" alt="Texto animado" />
 </a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://raw.githubusercontent.com/ALG-AbrahamGamargo/ALG-AbrahamGamargo/main/divider.svg" width="100%" alt="" />
 
 <!-- ===================== SOBRE MÍ ===================== -->
 ## 👨‍💻 Sobre mí
@@ -28,7 +30,7 @@ intereses:  [ tecnología, ciencia, ideas nuevas 💡 ]
 - 🧩 Me muevo con comodidad entre el **frontend** (Angular, React Native) y el **backend** (Java, Node.js).
 - 💬 Hablemos de **tecnología, ciencia** o de cualquier idea interesante.
 
-<br/>
+<img src="https://raw.githubusercontent.com/ALG-AbrahamGamargo/ALG-AbrahamGamargo/main/divider.svg" width="100%" alt="" />
 
 <!-- ===================== REDES / CONTENIDO ===================== -->
 ## 🎥 Contenido de tecnología y ciencia
@@ -51,7 +53,7 @@ Comparto contenido sobre **tecnología**, **ciencia** e ideas nuevas. ¡Sígueme
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/ALG-AbrahamGamargo/ALG-AbrahamGamargo/main/divider.svg" width="100%" alt="" />
 
 <!-- ===================== TECNOLOGÍAS ===================== -->
 ## 🛠️ Tecnologías y herramientas
@@ -93,7 +95,7 @@ Comparto contenido sobre **tecnología**, **ciencia** e ideas nuevas. ¡Sígueme
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/ALG-AbrahamGamargo/ALG-AbrahamGamargo/main/divider.svg" width="100%" alt="" />
 
 <!-- ===================== CONTACTO ===================== -->
 ## 📫 Contacto
@@ -118,7 +120,5 @@ Comparto contenido sobre **tecnología**, **ciencia** e ideas nuevas. ¡Sígueme
 <div align="center">
 
 ### 💡 "Me gusta aprender algo nuevo cada día."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" width="100%" />
 
 </div>
